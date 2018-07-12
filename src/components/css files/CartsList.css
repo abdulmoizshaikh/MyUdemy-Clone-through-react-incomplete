@@ -1,0 +1,29 @@
+#divOne{
+    margin: 30px 46.94px 30px 46.94px;
+    padding: 20px;
+    /* margin-top: 40px; */
+    /* padding: 30px; */
+}
+/* .sec-div{
+    display: flex;
+    flex-wrap: wrap;
+} */
+.cartClass{
+    position: relative;
+    margin: 10px;
+    /* width:300px; */
+    /* padding: 100px; */
+    /* margin: 10px; */
+}
+.third-div{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+}
+.content-txt{
+    width: 305.39px;
+    height: 22px;
+    float: left;
+    display: block;
+}

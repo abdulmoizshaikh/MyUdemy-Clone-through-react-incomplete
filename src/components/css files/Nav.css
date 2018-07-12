@@ -1,0 +1,81 @@
+#nav-div{
+    /* background-color:darkcyan;  */
+    display: flex;
+    border: 1px solid gray;
+    box-shadow: 0px 0px .2px ;
+    width: 100%;
+    height: 70px;
+    /* box-sizing: content-box; */
+    /* justify-content: space-between; */
+
+}
+#inner-div{
+
+    margin-top: 5px;
+    /* border: 1px solid rebeccapurple; */
+    justify-content: center;
+    flex-basis: 100%;
+    display: flex;    
+    /* margin: 2px; */
+    padding: 2px;
+    background-color:#ffff; 
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+}
+.udemy-log-g{
+    /* margin-right: 5px; */
+
+    float: left;
+}
+.nav-options{
+    padding: 3px;
+
+    /* justify-content: space-between; */
+    display: flex;
+    margin: 10px;
+
+}
+.business-btns{
+    /* width: 121px; */
+    /* height: 20px; */
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    
+}
+button{
+    background-color: transparent;
+}
+
+#search-elem{
+    width:450px;
+    border-radius: 5px;
+}
+
+.round-btn:hover,.business-btns:hover, .logsign-btn:hover{
+    background-color: gainsboro;
+    border: 0px solid gray;
+    box-shadow: 0px 0px 1px 0px;
+
+}
+.round-btn{
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 30px;
+    height: 30px;
+    color: gray;
+    border-radius: 25px;
+    justify-content: center;
+    margin:0 auto;
+}
+.right-div{
+    justify-content: space-between;
+}
+.cart-logo{
+    align-items: center;
+}
+.logsign-btn{
+    border: none;
+    padding: 5px;
+
+}
